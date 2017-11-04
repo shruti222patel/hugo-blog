@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Shrut.io"
-theme = "detox"
+theme = "detox-custom"
+publishDir = "docs"

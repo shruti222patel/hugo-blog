@@ -1,3 +1,9 @@
 [submodule "themes/detox"]
 	path = themes/detox
 	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox
+[submodule "detox"]
+	path = detox
+	url = https://github.com/shruti222patel/hugo-theme-blueberry-detox
+[submodule "themes/detox-custom"]
+	path = themes/detox-custom
+	url = https://github.com/shruti222patel/hugo-theme-blueberry-detox
